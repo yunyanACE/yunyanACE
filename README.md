@@ -1,7 +1,7 @@
 <!-- 居中对齐个人信息 -->
 <div align="center">
   <!-- 头像（替换为你的头像链接，建议用 GitHub 头像或 Imgur 链接） -->
-  <img src="[https://api.yunyanck.cn/logo]" width="150" height="150" alt="Profile Avatar">
+  <img src="https://api.yunyanck.cn/logo" width="150" height="150" alt="Profile Avatar">
 
   <!-- 昵称+头衔 -->
   <h1>yunyan</h1>
