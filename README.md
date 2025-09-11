@@ -27,14 +27,13 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="margin: 6px 4px" alt="Python"/>
-<img src="https://cdn.simpleicons.org/php/FFFFFF" height="35px" style="margin: 6px 4px; background:#777BB4" alt="PHP"/>
-<img src="https://cdn.simpleicons.org/linux/FFFFFF" height="35px" style="margin: 6px 4px; background:#FCC624" alt="Linux"/>
-<img src="https://cdn.simpleicons.org/git/FFFFFF" height="35px" style="margin: 6px 4px; background:#F05032" alt="Git"/>
-<img src="https://cdn.simpleicons.org/vim/FFFFFF" height="35px" style="margin: 6px 4px; background:#019833" alt="Vim"/>
-<img src="https://cdn.simpleicons.org/burpsuite/FFFFFF" height="35px" style="margin: 6px 4px; background:#FF6633" alt="Burp Suite"/>
-<img src="https://cdn.simpleicons.org/nmap/FFFFFF" height="35px" style="margin: 6px 4px; background:#E6E6E6" alt="Nmap"/>
-<img src="https://cdn.simpleicons.org/metasploit/FFFFFF" height="35px" style="margin: 6px 4px; background:#5C2E91" alt="Metasploit"/>
-</p>
+<img src="https://cdn.simpleicons.org/php" height="35px" style="margin: 6px 4px" alt="PHP"/>
+<img src="https://cdn.simpleicons.org/linux" height="35px" style="margin: 6px 4px" alt="Linux"/>
+<img src="https://cdn.simpleicons.org/git" height="35px" style="margin: 6px 4px" alt="Git"/>
+<img src="https://cdn.simpleicons.org/vim" height="35px" style="margin: 6px 4px" alt="Vim"/>
+<img src="https://cdn.simpleicons.org/burpsuite" height="35px" style="margin: 6px 4px" alt="Burp Suite"/>
+<img src="https://cdn.simpleicons.org/nmap" height="35px" style="margin: 6px 4px" alt="Nmap"/>
+<img src="https://cdn.simpleicons.org/metasploit" height="35px" style="margin: 6px 4px" alt="Metasploit"/>
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> 安全研究统计
@@ -46,6 +45,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyanACE&theme=tokyonight&layout=compact&count_private=true&hide=html,css" alt="常用语言"/>
 </p>
 
+<br/>
+
 
 <!-- 近期安全研究时间分布（WakaTime） -->
 <!--START_SECTION:waka-->Week: 最近一周
@@ -54,9 +55,11 @@ Python       12 hrs 30 mins  █████████████████
 Bash         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.8%
 PHP          15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.9%<!--END_SECTION:waka-->
 
+
+<br/>
+
 ---
 
 <p align="center">
   <samp>「漏洞如影随形，唯有持续学习方能抵御」</samp>  
-  <br/> 最后更新：2025年9月
 </p>
